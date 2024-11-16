@@ -154,17 +154,12 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 		.button {
-			background-color: #3498db;
-			color: white;
-			padding: 10px 20px;
-			text-decoration: none;
-			border-radius: 5px;
-			font-size: 16px;
+			border-radius: 12px;
+			padding: 5px;
+			border: 1px solid white;
+			font-size: 20px;
 		}
 		
-		.button:hover {
-			background-color: #2980b9;
-		}
 		
 /* Wrapper */
 
