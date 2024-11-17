@@ -1,0 +1,17 @@
+# robots.txt for Smit Chandarana's website
+
+# Allow all bots to access everything
+User-agent: *
+Disallow:
+
+# Block access to specific folders or files
+Disallow: /assets/css/
+Disallow: /assets/js/
+Disallow: /assets/Resume_SmitChandarana.pdf
+
+# Block access to admin or private areas (if applicable)
+Disallow: /admin/
+Disallow: /login/
+
+# Specify the location of the sitemap
+Sitemap: https://smitchandarana.com/sitemap.xml
